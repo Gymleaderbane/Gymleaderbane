@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gymleaderbane
 - 👀 I’m interested in JavaScript and Web API's
-- 🌱 I’m currently learning Web API's
+- 🌱 I’m currently learning everything I can.
 
 
 
